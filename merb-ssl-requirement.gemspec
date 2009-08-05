@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://www.merbivore.com}
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{merb}
-  s.rubygems_version = %q{1.2.0}
+  s.rubygems_version = %q{1.3.0}
   s.summary = %q{Merb plugin that provides ssl_requirement from rails}
 
   if s.respond_to? :specification_version then
